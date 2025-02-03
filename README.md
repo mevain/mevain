@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 🎀
 
-<!--
-**mevain/mevain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ksenia and here's some info about me: 
+* Moscow, Russia
+* 21 y.o.
+* Currently studying at BMSTU
+  * Faculty of Informatics and Control Systems
+  * Fourth year
+* Interested in web development and computer networks
 
-Here are some ideas to get you started:
+✉️ How to reach me:
+* Telegram: [@mevain](https://t.me/mevain)  
+* VK: [mevain](https://vk.com/mevain)  
+* Mail: xen.bardikina@yandex.ru 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## And here is some statistics :)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mevain&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mevain&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mevain&theme=tokyonight)
+
+
+
