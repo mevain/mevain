@@ -3,9 +3,7 @@
 I am Ksenia and here's some info about me: 
 * Moscow, Russia
 * 21 y.o.
-* Currently studying at BMSTU
-  * Faculty of Informatics and Control Systems
-  * Fourth year
+* Graduated with honors from the Faculty of Informatics and Control Systems at BMSTU
 * Interested in web development and computer networks
 
 ✉️ How to reach me:
