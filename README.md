@@ -2,9 +2,9 @@
 
 I am Ksenia and here's some info about me: 
 * Moscow, Russia
-* 21 y.o.
+* 22 y.o.
 * Graduated with honors from the Faculty of Informatics and Control Systems at BMSTU
-* Interested in web development and computer networks
+* Working as Golang developer in T-Bank
 
 ✉️ How to reach me:
 * Telegram: [@mevain](https://t.me/mevain)  
